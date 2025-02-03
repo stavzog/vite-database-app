@@ -12,6 +12,9 @@ dist
 dist-ssr
 *.local
 
+#sqlite database that will be creates automatically
+db.sqlite
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
